@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.png
+*.pdf
+.python-version
+pyproject.toml
+main.py
